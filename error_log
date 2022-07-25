@@ -1,0 +1,15 @@
+[18-Nov-2021 12:14:12 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/care2020sort/public_html/cdrmsolutions/blog.php on line 67
+[20-Nov-2021 05:42:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/care2020sort/public_html/cdrmsolutions/gallery.php on line 94
+[23-Nov-2021 06:02:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/care2020sort/public_html/cdrmsolutions/form.php on line 28
+[23-Nov-2021 06:04:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/care2020sort/public_html/cdrmsolutions/form.php on line 28
+[23-Nov-2021 06:33:28 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/care2020sort/public_html/cdrmsolutions/form.php on line 1
+[23-Nov-2021 06:33:28 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/care2020sort/public_html/cdrmsolutions/form.php on line 1
+[23-Nov-2021 06:34:40 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/care2020sort/public_html/cdrmsolutions/form.php on line 1
+[23-Nov-2021 06:34:40 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/care2020sort/public_html/cdrmsolutions/form.php on line 1
+[23-Nov-2021 06:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/care2020sort/public_html/cdrmsolutions/form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/care2020sort/public_html/cdrmsolutions/form.php on line 8
+[23-Nov-2021 10:19:12 UTC] PHP Warning:  Use of undefined constant SITE_URL - assumed 'SITE_URL' (this will throw an Error in a future version of PHP) in /home/care2020sort/public_html/cdrmsolutions/email.php on line 37
+[23-Nov-2021 11:10:28 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/care2020sort/public_html/cdrmsolutions/email.php on line 11
+[23-Nov-2021 11:10:35 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/care2020sort/public_html/cdrmsolutions/email.php on line 11
